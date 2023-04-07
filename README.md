@@ -1,1 +1,2 @@
 # usarizm
+Japanese Rabbit Game.
